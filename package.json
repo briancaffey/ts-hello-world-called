@@ -21,5 +21,6 @@
   "homepage": "https://github.com/briancaffey/ts-hello-world-called#readme",
   "devDependencies": {
     "typescript": "^4.9.4"
-  }
+  },
+  "files": ["dist", "src", "typings", "*.js"]
 }
