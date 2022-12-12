@@ -22,5 +22,5 @@
   "devDependencies": {
     "typescript": "^4.9.4"
   },
-  "files": ["dist", "src", "typings", "*.js"]
+  "files": ["index.js", "index.ts", "index.d.ts", "index.js.map"]
 }
