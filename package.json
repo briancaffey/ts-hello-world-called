@@ -2,7 +2,7 @@
   "name": "ts-hello-world-called",
   "version": "1.0.0",
   "description": "The purpose of this repo is to demonstrate how to write a node module that can be used by another node project without publishing that project to NPM, but instead just using the GitHub reference.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "type": "module",
   "typings": "dist/index.d.ts",
   "scripts": {
